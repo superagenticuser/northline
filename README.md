@@ -6,6 +6,10 @@ A fictional fintech product launch page for **Northline**, a smart finance app c
 
 Open `index.html` in your browser.
 
+## Live
+
+**Live:** https://superagenticuser.github.io/northline/
+
 ## Deploy
 
 Static site - deploys anywhere. Currently live via GitHub Pages (deploys automatically from the `main` branch).
